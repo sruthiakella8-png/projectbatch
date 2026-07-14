@@ -1,5 +1,0 @@
-class Student(models.Model):
-  stuid = models.IntegerField()
-  stuname = models.CharField(max_length=40)
-  stumarks = models.DecimalField(max_digits=8,decimal_places=2)
-  stumail = models.EmailField()
