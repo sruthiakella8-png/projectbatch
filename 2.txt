@@ -1,0 +1,2 @@
+class Employee(models.Model):
+	empid = models.IntegerField()
