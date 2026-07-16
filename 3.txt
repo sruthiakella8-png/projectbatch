@@ -1,5 +1,13 @@
+<<<<<<< Updated upstream
 story 2:
 class Customer(models.Model):
 	customid = models.IntegerField()
 	customname = models.CharField(max_length=40)
 	customreq = models.DecimalField(max_digits=8,decimal_places=2)
+=======
+Story 1:
+class product(models.Model):
+	prodid = models.IntegerField()
+	prodname = models.CharField(max_length=40)
+	prodprice = models.DecimalField(max_digits=8,decimal_places=2)
+>>>>>>> Stashed changes
