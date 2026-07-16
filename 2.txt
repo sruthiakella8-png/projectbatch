@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 class Employee(models.Model):
 	empid = models.IntegerField()
+=======
+class Student(models.Model):
+	stu id = models.IntegerField()
+>>>>>>> Stashed changes
