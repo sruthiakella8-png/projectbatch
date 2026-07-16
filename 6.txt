@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 story 2:
 67890
+=======
+story 1:
+12345
+>>>>>>> Stashed changes
